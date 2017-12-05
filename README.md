@@ -1,7 +1,7 @@
 # VippsBrandKit
 Basic Brand Kit for Vipps' new visual identity.
 
-Download the whole package here:
+Download here:
 https://github.com/ScandinavianDesignGroup/VippsBrandKit/archive/master.zip
 
 --
