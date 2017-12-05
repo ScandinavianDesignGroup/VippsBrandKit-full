@@ -1,11 +1,14 @@
 # VippsBrandKit
 Basic Brand Kit for Vipps' new visual identity.
 
+Download the whole package here:
+https://github.com/ScandinavianDesignGroup/VippsBrandKit/archive/master.zip
+
 --
 
 Containing:
 
-# 171204-vipps_one_pager_brand_guidelines.pdf#
+# vipps_one_pager_brand_guidelines.pdf#
 One-pager with Basic Brand Guidelines
 
 # 1-vipps-wordmark
