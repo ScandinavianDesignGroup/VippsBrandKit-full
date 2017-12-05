@@ -8,8 +8,8 @@ https://github.com/ScandinavianDesignGroup/VippsBrandKit/archive/master.zip
 
 Containing:
 
-# vipps_one_pager_brand_guidelines.pdf
-One-pager with Basic Brand Guidelines
+# vipps_one_pager_brand_guidelines_en.pdf
+One-pager with Basic Brand Guidelines in English (Norwegian coming soon)
 
 # 1-vipps-wordmark
 Wordmark assets for print (.eps) and screen (.svg and .png), positive/negative (orange) and white.
