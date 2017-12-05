@@ -29,5 +29,3 @@ Please contact João Doria at Scandinavian Design Group (joao.doria@sdg.no) for 
 The Vipps Brand is managed by:
 ## Hanne Norstrøm-Ness (hanne@vipps.no)
 ## Tonje Foss Kløve (tonje@vipps.no)
-
---
