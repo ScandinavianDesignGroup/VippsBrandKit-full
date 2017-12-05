@@ -23,6 +23,9 @@ Beta fonts for Vipps Display and Vipps Text (Regular, Medium, Bold.) See README.
 # 4-vipps-emojis
 Emoji assets for for print (.eps) and screen (.svg and .png)
 
+# 5-vipps-ppt-template
+Microsoft PowerPoint Template (.potx)
+
 --
 
 Please contact João Doria at Scandinavian Design Group (joao.doria@sdg.no) for further information.
@@ -32,3 +35,7 @@ Please contact João Doria at Scandinavian Design Group (joao.doria@sdg.no) for 
 The Vipps Brand is managed by:
 ## Hanne Norstrøm-Ness (hanne@vipps.no)
 ## Tonje Foss Kløve (tonje@vipps.no)
+
+--
+
+© Vipps, 2017. All rights reserved.
