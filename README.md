@@ -26,6 +26,9 @@ The typefaces Vipps Display and Vipps Text (Light, Regular, Bold, Black). See RE
 # 4-vipps-emojis
 Emoji assets for for print (.eps) and screen (.svg and .png)
 
+# 5-vipps-templates
+Ready-made templates for easy use of the brand standards (currently only for PowerPoint, `.potx` file).
+
 --
 
 Please contact João Doria at Scandinavian Design Group (joao.doria@sdg.no) for further information.
