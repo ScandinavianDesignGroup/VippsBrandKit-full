@@ -21,10 +21,13 @@ Wordmark assets for print (.eps) and screen (.svg and .png), positive/negative (
 .ASE Color Swatchbooks Adobe-compatible.
 
 # 3-vipps-type
-Beta fonts for Vipps Display and Vipps Text (Regular, Medium, Bold.) See README.MD for specific instructions.
+The typefaces Vipps Display and Vipps Text (Light, Regular, Bold, Black). See README.MD for specific instructions.
 
 # 4-vipps-emojis
 Emoji assets for for print (.eps) and screen (.svg and .png)
+
+# 5-vipps-templates
+Ready-made templates for easy use of the brand standards (currently only for PowerPoint, `.potx` file).
 
 --
 
